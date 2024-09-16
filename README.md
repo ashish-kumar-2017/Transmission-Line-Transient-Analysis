@@ -45,4 +45,4 @@ The following parameters are used in the simulation:
 
 5. View Results: The results and visualizations will be displayed in the GUI.
 
-## MADE-BY ASHISH KUMAR
+## MADE BY-ASHISH KUMAR
